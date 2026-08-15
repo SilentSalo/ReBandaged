@@ -69,5 +69,6 @@ Found a bug? Submit in in this **[Thread](https://steamcommunity.com/workshop/fi
 
 ## Workshop
 
+* **Workshop Link**: [**Steam**](https://steamcommunity.com/sharedfiles/filedetails/?id=3783949266)
 * **Workshop ID**: 3783949266
 * **Mod ID**: ReBandaged
