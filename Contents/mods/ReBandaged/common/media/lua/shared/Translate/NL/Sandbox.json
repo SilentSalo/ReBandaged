@@ -1,0 +1,9 @@
+{
+    "Sandbox_ReBandaged": "ReBandaged",
+    "Sandbox_AutoPick": "Automatisch oppakken beste verband ",
+    "Sandbox_AutoPick_tooltip": "Als ingeschakeld, zal de mod automatisch het best aanwezig verband selecteren vanuit de lijdt (inclusief containers) en het gebruiken. <LINE> Als uitgeschakeld , zal er een submenu verschijnen voor manuele selectie.",
+    "Sandbox_SpecifyPick": "Specificeer beste verband",
+    "Sandbox_SpecifyPick_tooltip": "Als deze optie is ingeschakeld, geeft de mod het beste beschikbare verband weer in het contextmenu (bijv. „Verband vervangen (lap)”). <LINE> Als deze optie is uitgeschakeld, geeft de mod het beste verband niet weer in het contextmenu (bijv. „Verband vervangen”). <LINE> Opmerking: in beide gevallen wordt altijd het pictogram van het beste verband weergegeven in het contextmenu.",
+    "Sandbox_AutoTranslate": "Auto-Translatie",
+    "Sandbox_AutoTranslate_tooltip": "Als deze optie is ingeschakeld, probeert de mod automatisch de contextacties naar je lokale taal te vertalen met behulp van de beschikbare vertalingen in het spel. <LINE> Als deze optie is uitgeschakeld, gebruikt de mod de vertalingen die in het pakket zijn meegeleverd. <LINE> Let op: dit werkt mogelijk niet voor alle talen even goed."
+}
