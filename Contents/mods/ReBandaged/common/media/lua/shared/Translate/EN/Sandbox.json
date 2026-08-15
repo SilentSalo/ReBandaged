@@ -1,0 +1,9 @@
+{
+    "Sandbox_ReBandaged": "ReBandaged",
+    "Sandbox_AutoPick": "Auto-Pick Best Bandage",
+    "Sandbox_AutoPick_tooltip": "If enabled, the mod will automatically select the best available bandage from the inventory (including containers) and use it. <LINE> If disabled, a submenu will appear for manual selection.",
+    "Sandbox_SpecifyPick": "Specify Best Bandage",
+    "Sandbox_SpecifyPick_tooltip": "If enabled, the mod will specify the best available bandage in the context menu (e.g. «Replace Bandage (Rag)»). <LINE> If disabled, the mod will not specify the best bandage in the context menu (e.g. «Replace Bandage»). <LINE> Note: both cases will always show the icon of the best bandage in the context menu.",
+    "Sandbox_AutoTranslate": "Auto-Translate",
+    "Sandbox_AutoTranslate_tooltip": "If enabled, the mod will automatically try to translate context actions to your local language using available in-game translations. <LINE> If disabled, the mod will use the translations that come in a package. <LINE> Note: might not work the best for all languages."
+}
