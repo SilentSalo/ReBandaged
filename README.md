@@ -36,7 +36,7 @@ Build 42, Singleplayer, Multiplayer. *Tested only on B42.20.*
   * If disabled, the mod will not specify the best bandage in the context menu (e.g. «Replace Bandage»).
   * *Note*: both cases will always show the icon of the best bandage in the context menu.
 
-![showcase3](./showcase3.png)
+![showcase3](./showcase2.png)
 
 * **Auto-Translate**
   * If enabled, the mod will automatically try to translate context actions to your local language using available in-game translations.
