@@ -20,12 +20,6 @@ Build 42, Singleplayer, Multiplayer. *Tested only on B42.20.*
 
 * **Replace Bandage**
 
-![showcase](./showcase.png)
-
-![showcase2](./showcase2.png)
-
-![showcase3](./showcase3.png)
-
 ---
 
 ## Sandbox
@@ -34,12 +28,15 @@ Build 42, Singleplayer, Multiplayer. *Tested only on B42.20.*
   * If enabled, the mod will automatically select the best available bandage from the inventory (including containers) and use it.
   * If disabled, a submenu will appear for manual selection.
 
+![showcase](./showcase.png)
+![showcase3](./showcase3.png)
 
 * **Specify Best Bandage**
   * If enabled, the mod will specify the best available bandage in the context menu (e.g. «Replace Bandage (Rag)»).
   * If disabled, the mod will not specify the best bandage in the context menu (e.g. «Replace Bandage»).
   * *Note*: both cases will always show the icon of the best bandage in the context menu.
 
+![showcase3](./showcase3.png)
 
 * **Auto-Translate**
   * If enabled, the mod will automatically try to translate context actions to your local language using available in-game translations.
@@ -56,9 +53,9 @@ The mod comes with an **Auto-Translate** sandbox setting, however, the option us
 
 List of the translations that come in a packed with the mod:
 
-* **EN** - by [SilentSalo](https://steamcommunity.com/id/SilentSalo/)
-* **UA** - by [SilentSalo](https://steamcommunity.com/id/SilentSalo/)
-* **RU** - by [SilentSalo](https://steamcommunity.com/id/SilentSalo/)
+* **EN** - by [**SilentSalo**](https://steamcommunity.com/id/SilentSalo/)
+* **UA** - by [**SilentSalo**](https://steamcommunity.com/id/SilentSalo/)
+* **RU** - by [**SilentSalo**](https://steamcommunity.com/id/SilentSalo/)
 
 If you want to make a translation for **ReBandaged**, refer to this **[Thread](https://steamcommunity.com/workshop/filedetails/discussion/3783949266/84031737849649819/)**.
 
