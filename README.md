@@ -63,7 +63,7 @@ If you want to make a translation for **ReBandaged**, refer to this **[Thread](h
 
 ## Bugs
 
-Found a bug? Submit in in this **[Thread](https://steamcommunity.com/workshop/filedetails/discussion/3783949266/84031737849649867/)**.
+Found a bug? Submit it in this **[Thread](https://steamcommunity.com/workshop/filedetails/discussion/3783949266/84031737849649867/)**.
 
 ---
 
