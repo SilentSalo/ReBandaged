@@ -13,6 +13,9 @@ This mod is very vanilla-friendly; it doesn't add anything extreme.
 
 ---
 
+## Compatibility
+Build 42, Singleplayer, Multiplayer. *Tested only on B42.20.*
+
 ## Features
 
 * **Replace Bandage**
