@@ -3,7 +3,7 @@
 > *First-aid automation for those who are too lazy to even bleed out properly.*
 > — **SilentSalo**
 
-![poster](./preview.png)
+![poster](/Screenshots/poster.png)
 
 ---
 
