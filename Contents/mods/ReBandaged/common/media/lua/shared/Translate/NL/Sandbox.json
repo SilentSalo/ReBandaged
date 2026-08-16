@@ -1,9 +1,13 @@
 {
     "Sandbox_ReBandaged": "ReBandaged",
-    "Sandbox_AutoPick": "Automatisch oppakken beste verband ",
-    "Sandbox_AutoPick_tooltip": "Als ingeschakeld, zal de mod automatisch het best aanwezig verband selecteren vanuit de lijdt (inclusief containers) en het gebruiken. <LINE> Als uitgeschakeld , zal er een submenu verschijnen voor manuele selectie.",
-    "Sandbox_SpecifyPick": "Specificeer beste verband",
-    "Sandbox_SpecifyPick_tooltip": "Als deze optie is ingeschakeld, geeft de mod het beste beschikbare verband weer in het contextmenu (bijv. „Verband vervangen (lap)”). <LINE> Als deze optie is uitgeschakeld, geeft de mod het beste verband niet weer in het contextmenu (bijv. „Verband vervangen”). <LINE> Opmerking: in beide gevallen wordt altijd het pictogram van het beste verband weergegeven in het contextmenu.",
-    "Sandbox_AutoTranslate": "Auto-Translatie",
-    "Sandbox_AutoTranslate_tooltip": "Als deze optie is ingeschakeld, probeert de mod automatisch de contextacties naar je lokale taal te vertalen met behulp van de beschikbare vertalingen in het spel. <LINE> Als deze optie is uitgeschakeld, gebruikt de mod de vertalingen die in het pakket zijn meegeleverd. <LINE> Let op: dit werkt mogelijk niet voor alle talen even goed."
+    "Sandbox_AutoPick": "Automatische selectie van het beste verband",
+    "Sandbox_AutoPick_tooltip": "<GREEN> INGESCHAKELD - de mod kiest het beste beschikbare verband en biedt dit aan in het contextmenu. <BR> <RED> UIT - de mod toont een submenu met alle beschikbare verbanden om handmatig te selecteren.",
+    "Sandbox_AutoSearch": "Automatisch zoeken in containers",
+    "Sandbox_AutoSearch_tooltip": "<GREEN> INGESCHAKELD - de mod zoekt verband in alle containers (inventaris, rugzakken, voorwerpen in de buurt, enz.). <BR> <RED> UITGESCHAKELD - de mod zoekt alleen verband in de inventaris.",
+    "Sandbox_SpecifyPick": "Het beste verband aangeven",
+    "Sandbox_SpecifyPick_tooltip": "<GREEN> AAN - de mod geeft het beste beschikbare verband aan in het contextmenu (bijvoorbeeld ‘Verband vervangen (Lap)’). <BR> <RED> UIT - de mod geeft niet het beste verband aan in het contextmenu (bijvoorbeeld ‘Verband vervangen’). <BR> <ORANGE> Opmerking: werkt alleen als ‘Automatische selectie van het beste verband’ is ingeschakeld.",
+    "Sandbox_OnlyDirty": "Alleen vuile verbanden",
+    "Sandbox_OnlyDirty_tooltip": "<GREEN> AAN - de mod toont contextmenu-acties alleen voor vuile, verbonden lichaamsdelen. <BR> <RED> UIT - de mod toont de contextmenu-opties voor alle verbonden lichaamsdelen.",
+    "Sandbox_AutoTranslate": "Automatische vertaling",
+    "Sandbox_AutoTranslate_tooltip": "<GREEN> AAN - de mod probeert de acties in het contextmenu te vertalen naar je lokale taal, met behulp van in-game vertalingen. <BR> <RED> UIT - de mod gebruikt de meegeleverde vertalingen. <BR> <ORANGE> Opmerking: werkt mogelijk niet voor alle talen even goed."
 }

@@ -1,8 +1,27 @@
 ReBandaged = ReBandaged or {}
 
-function ReBandaged.getAvailableBandages(inventory, doctor)
+function ReBandaged.getAvailableBandages(doctor)
+    local isAutoSearch = SandboxVars.ReBandaged and SandboxVars.ReBandaged.AutoSearch == true
+
     local availableBandages = {}
     local addedTypes        = {}
+
+    if not isAutoSearch then
+        local items = doctor:getInventory():getItems()
+
+        for i = 0, items:size() - 1 do
+            local item = items:get(i)
+            if item:getBandagePower() > 0 then
+                local type = item:getFullType()
+                if not addedTypes[type] then
+                    table.insert(availableBandages, item)
+                    addedTypes[type] = true
+                end
+            end
+        end
+
+        return availableBandages
+    end
 
     local containers = ISInventoryPaneContextMenu.getContainers(doctor)
 

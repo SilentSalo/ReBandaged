@@ -13,13 +13,18 @@ function ISHealthPanel:doBodyPartContextMenu(bodyPart, x, y)
     ISContextMenu.get = _ISContextMenu_get
 
     if context and bodyPart:bandaged() then
+        local isOnlyDirty = SandboxVars.ReBandaged and SandboxVars.ReBandaged.OnlyDirty == true
+
+        if isOnlyDirty and bodyPart:getBandageLife() > 0 then
+            return
+        end
+
         local doctor  = self.otherPlayer or self.character
         local patient = self.character
 
-        local inventory         = doctor:getInventory()
-        local availableBandages = ReBandaged.getAvailableBandages(inventory, doctor)
+        local availableBandages = ReBandaged.getAvailableBandages(doctor)
 
-        if #availableBandages > 0 then
+        if availableBandages and #availableBandages > 0 then
             ReBandaged.buildContextMenu(context, self, bodyPart, availableBandages, doctor, patient)
         end
     end

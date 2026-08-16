@@ -14,7 +14,9 @@ This mod is very vanilla-friendly; it doesn't add anything extreme.
 ---
 
 ## Compatibility
-Build 42, Singleplayer, Multiplayer. *Tested only on B42.20.*
+Build 42.20, Singleplayer, Multiplayer, [**Mini Health Panel**](https://steamcommunity.com/sharedfiles/filedetails/?id=2866258937).
+
+![minihealtpanel](/Screenshots/minihealthpanel.png)
 
 ## Features
 
@@ -24,26 +26,40 @@ Build 42, Singleplayer, Multiplayer. *Tested only on B42.20.*
 
 ## Sandbox
 
-* **Auto-Pick Best Bandage**
-  * If enabled, the mod will automatically select the best available bandage from the inventory (including containers) and use it.
-  * If disabled, a submenu will appear for manual selection.
+![sandbox](/Screenshots/sandbox.png)
 
-![showcase](./showcase.png)
-![showcase3](./showcase3.png)
+* **Auto-Pick Best Bandage**
+  * **ENABLED** - mod picks the best available bandage and offers it in the context menu.
+  * **DISABLED** - mod shows a submenu with all available bandages for manual selection.
+
+![autopick1](/Screenshots/autopick1.png)
+![autopick1](/Screenshots/autopick2.png)
+
+* **Auto-Search All Containers**
+  * **ENABLED** - mod searches for bandages in all containers (inventory, backpacks, nearby items, etc.).
+  * **DISABLED** - mod searches for bandages in the inventory only.
+
+![autosearch](/Screenshots/autosearch.png)
 
 * **Specify Best Bandage**
-  * If enabled, the mod will specify the best available bandage in the context menu (e.g. «Replace Bandage (Rag)»).
-  * If disabled, the mod will not specify the best bandage in the context menu (e.g. «Replace Bandage»).
-  * *Note*: both cases will always show the icon of the best bandage in the context menu.
+  * **ENABLED** - mod specifies the best available bandage in the context menu (e.g. «Replace Bandage (Rag)»).
+  * **DISABLED** - mod does not specify the best bandage in the context menu (e.g. «Replace Bandage»).
+  * *Note*: works only if «Auto-Pick Best Bandage» is **ENABLED**.
 
-![showcase3](./showcase2.png)
+![specifypick](/Screenshots/specifypick.png)
+
+* **Only Dirty Bandages**
+  * **ENABLED** - mod shows the context menu actions for dirty bandaged body parts only.
+  * **DISABLED** - mod shows the context menu actions for all bandaged body parts.
+
+![onlydirty](/Screenshots/onlydirty.png)
 
 * **Auto-Translate**
-  * If enabled, the mod will automatically try to translate context actions to your local language using available in-game translations.
-  * If disabled, the mod will use the translations that come in a package.
+  * ENABLED - mod specifies the best available bandage in the context menu (e.g. «Replace Bandage (Rag)»).
+  * DISABLED - mod does not specify the best bandage in the context menu (e.g. «Replace Bandage»). <BR> <ORANGE> Note: works only if «Auto-Pick Best Bandage» is ENABLED.
   * *Note*: might not work the best for all languages.
 
-![sandbox](./sandbox.png)
+![autotranslate](/Screenshots/autotranslate.png)
 
 ---
 
@@ -56,6 +72,7 @@ List of the translations that come in a packed with the mod:
 * **EN** - by [**SilentSalo**](https://steamcommunity.com/id/SilentSalo/)
 * **UA** - by [**SilentSalo**](https://steamcommunity.com/id/SilentSalo/)
 * **RU** - by [**SilentSalo**](https://steamcommunity.com/id/SilentSalo/)
+* **NL** - by [**Sholva**](https://steamcommunity.com/profiles/76561199109953741/)
 
 If you want to make a translation for **ReBandaged**, refer to this **[Thread](https://steamcommunity.com/workshop/filedetails/discussion/3783949266/84031737849649819/)**.
 
