@@ -42,7 +42,7 @@ Build 42.20, Singleplayer, Multiplayer, [**Mini Health Panel**](https://steamcom
 ![autosearch](/Screenshots/autosearch.png)
 
 * **Specify Best Bandage**
-  * **ENABLED** - mod specifies the best available bandage in the context menu (e.g. «Replace Bandage (Rag)»).
+  * **ENABLED** - mod specifies the best bandage in the context menu (e.g. «Replace Bandage (Rag)»).
   * **DISABLED** - mod does not specify the best bandage in the context menu (e.g. «Replace Bandage»).
   * *Note*: works only if «Auto-Pick Best Bandage» is **ENABLED**.
 
@@ -55,8 +55,8 @@ Build 42.20, Singleplayer, Multiplayer, [**Mini Health Panel**](https://steamcom
 ![onlydirty](/Screenshots/onlydirty.png)
 
 * **Auto-Translate**
-  * ENABLED - mod specifies the best available bandage in the context menu (e.g. «Replace Bandage (Rag)»).
-  * DISABLED - mod does not specify the best bandage in the context menu (e.g. «Replace Bandage»). <BR> <ORANGE> Note: works only if «Auto-Pick Best Bandage» is ENABLED.
+  * **ENABLED** - mod tries to translate context actions to your local language using in-game translations.
+  * **DISABLED** - mod uses the translations that come in a package.
   * *Note*: might not work the best for all languages.
 
 ![autotranslate](/Screenshots/autotranslate.png)

@@ -5,7 +5,7 @@
     "Sandbox_AutoSearch": "Auto-Search All Containers",
     "Sandbox_AutoSearch_tooltip": "<GREEN> ENABLED - mod searches for bandages in all containers (inventory, backpacks, nearby items, etc.). <BR> <RED> DISABLED - mod searches for bandages in the inventory only.",
     "Sandbox_SpecifyPick": "Specify Best Bandage",
-    "Sandbox_SpecifyPick_tooltip": "<GREEN> ENABLED - mod specifies the best available bandage in the context menu (e.g. «Replace Bandage (Rag)»). <BR> <RED> DISABLED - mod does not specify the best bandage in the context menu (e.g. «Replace Bandage»). <BR> <ORANGE> Note: works only if «Auto-Pick Best Bandage» is ENABLED.",
+    "Sandbox_SpecifyPick_tooltip": "<GREEN> ENABLED - mod specifies the best bandage in the context menu (e.g. «Replace Bandage (Rag)»). <BR> <RED> DISABLED - mod does not specify the best bandage in the context menu (e.g. «Replace Bandage»). <BR> <ORANGE> Note: works only if «Auto-Pick Best Bandage» is ENABLED.",
     "Sandbox_OnlyDirty": "Only Dirty Bandages",
     "Sandbox_OnlyDirty_tooltip": "<GREEN> ENABLED - mod shows the context menu actions for dirty bandaged body parts only. <BR> <RED> DISABLED - mod shows the context menu actions for all bandaged body parts.",
     "Sandbox_AutoTranslate": "Auto-Translate",
