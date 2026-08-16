@@ -44,7 +44,7 @@ Build 42.20, Singleplayer, Multiplayer, [**Mini Health Panel**](https://steamcom
 * **Specify Best Bandage**
   * **ENABLED** - mod specifies the best bandage in the context menu (e.g. «Replace Bandage (Rag)»).
   * **DISABLED** - mod does not specify the best bandage in the context menu (e.g. «Replace Bandage»).
-  * *Note*: works only if «Auto-Pick Best Bandage» is **ENABLED**.
+  * *Note*: works only if «**Auto-Pick Best Bandage**» is **ENABLED**.
 
 ![specifypick](/Screenshots/specifypick.png)
 
