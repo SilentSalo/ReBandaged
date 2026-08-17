@@ -37,6 +37,6 @@ function ISHealthPanel:onReplaceBandage(bodyPart, newBandage, doctor, patient)
     local applyAction  = ISApplyBandage:new(doctor, patient, newBandage, bodyPart, true)
 
     ISTimedActionQueue.add(removeAction)
-    ISTimedActionQueue.add(applyAction)
+    ISTimedActionQueue.addAfter(removeAction, applyAction)
 end
 
