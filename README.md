@@ -14,7 +14,7 @@ This mod is very vanilla-friendly; it doesn't add anything extreme.
 ---
 
 ## Compatibility
-Build 42.20, Singleplayer, Multiplayer, [**Mini Health Panel**](https://steamcommunity.com/sharedfiles/filedetails/?id=2866258937).
+Build 42.20+, Singleplayer, Multiplayer, [**Mini Health Panel**](https://steamcommunity.com/sharedfiles/filedetails/?id=2866258937).
 
 ![minihealtpanel](/Screenshots/minihealthpanel.png)
 

@@ -31,7 +31,7 @@ function ReBandaged.getAvailableBandages(doctor)
 
     for i = 0, containers:size() - 1 do
         local container = containers:get(i)
-        local items = container:getItems()
+        local items     = container:getItems()
 
         for j = 0, items:size() - 1 do
             local item = items:get(j)
