@@ -8,6 +8,14 @@ option ReBandaged.AutoPick
     translation = ReBandaged_AutoPick
 }
 
+option ReBandaged.AutoDisinfect
+{
+    type = boolean,
+    default = false,
+    page = ReBandaged,
+    translation = ReBandaged_AutoDisinfect
+}
+
 option ReBandaged.AutoSearch
 {
     type = boolean,
@@ -16,12 +24,12 @@ option ReBandaged.AutoSearch
     translation = ReBandaged_AutoSearch
 }
 
-option ReBandaged.SpecifyPick
+option ReBandaged.AutoTranslate
 {
     type = boolean,
     default = false,
     page = ReBandaged,
-    translation = ReBandaged_SpecifyPick
+    translation = ReBandaged_AutoTranslate
 }
 
 option ReBandaged.OnlyDirty
@@ -32,11 +40,11 @@ option ReBandaged.OnlyDirty
     translation = ReBandaged_OnlyDirty
 }
 
-option ReBandaged.AutoTranslate
+option ReBandaged.SpecifyPick
 {
     type = boolean,
     default = false,
     page = ReBandaged,
-    translation = ReBandaged_AutoTranslate
+    translation = ReBandaged_SpecifyPick
 }
 

@@ -33,13 +33,32 @@ Build 42.20+, Singleplayer, Multiplayer, [**Mini Health Panel**](https://steamco
   * **DISABLED** - mod shows a submenu with all available bandages for manual selection.
 
 ![autopick1](/Screenshots/autopick1.png)
-![autopick1](/Screenshots/autopick2.png)
+![autopick2](/Screenshots/autopick2.png)
 
-* **Auto-Search All Containers**
+* **Auto-Disinfect Wounds**
+  * **ENABLED** - mod disinfects wounds using the best available disinfectant before replacing a bandage.
+  * **DISABLED** - mod does not disinfect wounds before replacing a bandage.
+
+![autodisinfect](/Screenshots/autodisinfect.png)
+
+* **Auto-Search Containers**
   * **ENABLED** - mod searches for bandages in all containers (inventory, backpacks, nearby items, etc.).
   * **DISABLED** - mod searches for bandages in the inventory only.
 
 ![autosearch](/Screenshots/autosearch.png)
+
+* **Auto-Translate Actions**
+  * **ENABLED** - mod tries to translate context menu actions to your local language using in-game translations.
+  * **DISABLED** - mod uses the translations that come in a package.
+  * *Note*: might not work the best for all languages.
+
+![autotranslate](/Screenshots/autotranslate.png)
+
+* **Only Dirty Bandages**
+  * **ENABLED** - mod shows the context menu actions for dirty bandaged body parts only.
+  * **DISABLED** - mod shows the context menu actions for all bandaged body parts.
+
+![onlydirty](/Screenshots/onlydirty.png)
 
 * **Specify Best Bandage**
   * **ENABLED** - mod specifies the best bandage in the context menu (e.g. «Replace Bandage (Rag)»).
@@ -48,24 +67,11 @@ Build 42.20+, Singleplayer, Multiplayer, [**Mini Health Panel**](https://steamco
 
 ![specifypick](/Screenshots/specifypick.png)
 
-* **Only Dirty Bandages**
-  * **ENABLED** - mod shows the context menu actions for dirty bandaged body parts only.
-  * **DISABLED** - mod shows the context menu actions for all bandaged body parts.
-
-![onlydirty](/Screenshots/onlydirty.png)
-
-* **Auto-Translate**
-  * **ENABLED** - mod tries to translate context actions to your local language using in-game translations.
-  * **DISABLED** - mod uses the translations that come in a package.
-  * *Note*: might not work the best for all languages.
-
-![autotranslate](/Screenshots/autotranslate.png)
-
 ---
 
 ## Translations
 
-The mod comes with an **Auto-Translate** sandbox setting, however, the option uses in-game text, so the translation can be somewhat wacky in some languages.
+The mod comes with an **Auto-Translate Actions** sandbox setting, however, the option uses in-game text, so the translation can be somewhat wacky in some languages.
 
 List of the translations that come in a packed with the mod:
 
